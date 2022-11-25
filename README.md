@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on FriendBy app
+- 🌱 I’m currently learning C language
+- ⚡ Fun fact: I like golden retrievers
+
 <!--
 **SerZeliuk/SerZeliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
