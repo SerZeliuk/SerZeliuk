@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-- 🔭 I’m currently working on FriendBy app
-- 🌱 I’m currently learning C language
-- ⚡ Fun fact: I like golden retrievers
+I'm Serhii, 20 years old. I come from Ukraine and live in Poland since 2016.
+I like playing musical instruments like guitar, flute and piano🎶
 
-My web page: https://serzeliuk.github.io/
+I also speak five languages - Ukrainian, Russian, Polish, English and German.🗣️
 
-Lubię projekty związane z AI i ML, a to jeden z nich:
-https://github.com/SerZeliuk/DETA
-https://arxiv.org/pdf/2212.06137v1.pdf
+Computer Science and AI enthusiast with a knack for turning ideas into reality! 
+Built a commercial Java application and designed a custom website for a journalistic diploma project 🌐. 
 
-<!--
+Always up for a challenge, whether it's coding, creating, or learning something new
+
+You can view all my projects in a repos below 👇.
