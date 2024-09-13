@@ -10,4 +10,4 @@ Built a commercial Java application and designed a custom website for a journali
 
 Always up for a challenge, whether it's coding, creating, or learning something new
 
-You can view all my projects in a repos below 👇.
+You can view all my projects in repos below 👇.
